@@ -24,3 +24,6 @@ $(document).ready(function(){
   }
 });
 ```
+
+### Demo Page
+- [miguelsolorio.github.io/email-super-collector/](http://miguelsolorio.github.io/email-super-collector/)
